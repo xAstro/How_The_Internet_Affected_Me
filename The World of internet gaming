@@ -1,0 +1,11 @@
+#include <iostream>
+#include <limits>
+using namespace std;
+
+int main()
+  {
+  cout << "Games have been the blanket for my cold bed" << flush;
+  cin.ignore( numeric_limits <streamsize> ::max(), '\n' );
+  cout << "When I turn my game on, i'm transported. To a world with no pain, to a world without strain, to where I rule as a king or I destroy my enemies as a war hero. Using the internet, No one feels like a zero.\n";
+  return 0;
+  }
